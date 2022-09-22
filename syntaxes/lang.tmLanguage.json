@@ -22,7 +22,7 @@
 			"name": "variable.parameter.values.lang",
 			"patterns": [{
 				"begin": "<",
-				"end": ">",
+				"end": ">|$",
 				"name": "entity.name.function.values.lang"
 			}, {
 				"match": "§[0-9a-fk-or]{1}",
